@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: 'Hosted Agent'
+pool: 'Default'
 
 variables:
   solution: '**/*.sln'
